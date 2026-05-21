@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\atulo\\source\\repos\\SummerNetClass\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{21F25A25-118B-4D44-A9E6-E195318640F3}|..\\SummerNetClass\\SummerNetClass.WeekOne\\SummerNetClass.WeekOne.csproj|c:\\users\\atulo\\source\\repos\\summernetclass\\summernetclass.weekone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21F25A25-118B-4D44-A9E6-E195318640F3}|..\\SummerNetClass\\SummerNetClass.WeekOne\\SummerNetClass.WeekOne.csproj|solutionrelative:summernetclass.weekone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C9C6197-8E2E-A6AB-1591-C0D2565E2B3A}|SummerNetClass.WeekOne\\SummerNetClass.WeekOneA.csproj|c:\\users\\atulo\\source\\repos\\summernetclass\\summernetclass.weekone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C9C6197-8E2E-A6AB-1591-C0D2565E2B3A}|SummerNetClass.WeekOne\\SummerNetClass.WeekOneA.csproj|solutionrelative:summernetclass.weekone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,9 +30,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\atulo\\source\\repos\\SummerNetClass\\SummerNetClass.WeekOne\\Program.cs",
               "RelativeDocumentMoniker": "SummerNetClass.WeekOne\\Program.cs",
-              "ToolTip": "C:\\Users\\atulo\\source\\repos\\SummerNetClass\\SummerNetClass.WeekOne\\Program.cs*",
-              "RelativeToolTip": "SummerNetClass.WeekOne\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\atulo\\source\\repos\\SummerNetClass\\SummerNetClass.WeekOne\\Program.cs",
+              "RelativeToolTip": "SummerNetClass.WeekOne\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-21T13:46:03.178Z",
               "EditorCaption": ""
