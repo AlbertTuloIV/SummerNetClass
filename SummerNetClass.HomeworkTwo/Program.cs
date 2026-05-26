@@ -31,6 +31,7 @@ namespace TaxTable
             }
         }
 
+        // Takes in the income from user input, will loop through all TaxBracket objects till it matches a case, then calculates accordingly. 
         private static double CalculateTaxes(double income)
         {
             double totalTaxes = 0.00;
@@ -54,14 +55,14 @@ namespace TaxTable
             return totalTaxes;
         }
 
-        private static List<TaxBracket> TaxBrackets = new List<TaxBracket>
-        {
+        private static List<TaxBracket> TaxBrackets = 
+        [
             new TaxBracket { FromAmount = 1.00, ToAmount = 4461.99, BaseTax = 0, CentsPerDollar = 0 },
             new TaxBracket { FromAmount = 4462.00, ToAmount = 17893.99, BaseTax = 0, CentsPerDollar = 0.30 },
             new TaxBracket { FromAmount = 17894.00, ToAmount = 29499.99, BaseTax = 4119.00, CentsPerDollar = 0.35 },
             new TaxBracket { FromAmount = 29500.00, ToAmount = 45787.99, BaseTax = 8656.00, CentsPerDollar = 0.46 },
             new TaxBracket { FromAmount = 45788.00, ToAmount = double.MaxValue, BaseTax = 11179.00, CentsPerDollar = 0.60 }
-        };
+        ];
 
         private class TaxBracket
         {
