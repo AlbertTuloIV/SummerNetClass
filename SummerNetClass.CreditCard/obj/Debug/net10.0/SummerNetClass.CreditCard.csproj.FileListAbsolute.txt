@@ -1,0 +1,14 @@
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.CreditCard\bin\Debug\net10.0\SummerNetClass.CreditCard.exe
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.CreditCard\bin\Debug\net10.0\SummerNetClass.CreditCard.deps.json
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.CreditCard\bin\Debug\net10.0\SummerNetClass.CreditCard.runtimeconfig.json
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.CreditCard\bin\Debug\net10.0\SummerNetClass.CreditCard.dll
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.CreditCard\bin\Debug\net10.0\SummerNetClass.CreditCard.pdb
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.CreditCard\obj\Debug\net10.0\SummerNetClass.CreditCard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.CreditCard\obj\Debug\net10.0\SummerNetClass.CreditCard.AssemblyInfoInputs.cache
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.CreditCard\obj\Debug\net10.0\SummerNetClass.CreditCard.AssemblyInfo.cs
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.CreditCard\obj\Debug\net10.0\SummerNetClass.CreditCard.csproj.CoreCompileInputs.cache
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.CreditCard\obj\Debug\net10.0\SummerNetClass.CreditCard.dll
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.CreditCard\obj\Debug\net10.0\refint\SummerNetClass.CreditCard.dll
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.CreditCard\obj\Debug\net10.0\SummerNetClass.CreditCard.pdb
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.CreditCard\obj\Debug\net10.0\SummerNetClass.CreditCard.genruntimeconfig.cache
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.CreditCard\obj\Debug\net10.0\ref\SummerNetClass.CreditCard.dll
