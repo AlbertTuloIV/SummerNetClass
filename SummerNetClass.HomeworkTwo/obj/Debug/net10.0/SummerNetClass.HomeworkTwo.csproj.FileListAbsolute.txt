@@ -1,0 +1,14 @@
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.HomeworkTwo\bin\Debug\net10.0\SummerNetClass.HomeworkTwo.exe
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.HomeworkTwo\bin\Debug\net10.0\SummerNetClass.HomeworkTwo.deps.json
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.HomeworkTwo\bin\Debug\net10.0\SummerNetClass.HomeworkTwo.runtimeconfig.json
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.HomeworkTwo\bin\Debug\net10.0\SummerNetClass.HomeworkTwo.dll
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.HomeworkTwo\bin\Debug\net10.0\SummerNetClass.HomeworkTwo.pdb
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.HomeworkTwo\obj\Debug\net10.0\SummerNetClass.HomeworkTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.HomeworkTwo\obj\Debug\net10.0\SummerNetClass.HomeworkTwo.AssemblyInfoInputs.cache
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.HomeworkTwo\obj\Debug\net10.0\SummerNetClass.HomeworkTwo.AssemblyInfo.cs
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.HomeworkTwo\obj\Debug\net10.0\SummerNetClass.HomeworkTwo.csproj.CoreCompileInputs.cache
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.HomeworkTwo\obj\Debug\net10.0\SummerNetClass.HomeworkTwo.dll
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.HomeworkTwo\obj\Debug\net10.0\refint\SummerNetClass.HomeworkTwo.dll
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.HomeworkTwo\obj\Debug\net10.0\SummerNetClass.HomeworkTwo.pdb
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.HomeworkTwo\obj\Debug\net10.0\SummerNetClass.HomeworkTwo.genruntimeconfig.cache
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.HomeworkTwo\obj\Debug\net10.0\ref\SummerNetClass.HomeworkTwo.dll

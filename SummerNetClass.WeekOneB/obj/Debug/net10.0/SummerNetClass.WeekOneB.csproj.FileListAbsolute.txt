@@ -1,0 +1,14 @@
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.WeekOneB\bin\Debug\net10.0\SummerNetClass.WeekOneB.exe
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.WeekOneB\bin\Debug\net10.0\SummerNetClass.WeekOneB.deps.json
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.WeekOneB\bin\Debug\net10.0\SummerNetClass.WeekOneB.runtimeconfig.json
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.WeekOneB\bin\Debug\net10.0\SummerNetClass.WeekOneB.dll
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.WeekOneB\bin\Debug\net10.0\SummerNetClass.WeekOneB.pdb
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.WeekOneB\obj\Debug\net10.0\SummerNetClass.WeekOneB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.WeekOneB\obj\Debug\net10.0\SummerNetClass.WeekOneB.AssemblyInfoInputs.cache
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.WeekOneB\obj\Debug\net10.0\SummerNetClass.WeekOneB.AssemblyInfo.cs
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.WeekOneB\obj\Debug\net10.0\SummerNetClass.WeekOneB.csproj.CoreCompileInputs.cache
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.WeekOneB\obj\Debug\net10.0\SummerNetClass.WeekOneB.dll
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.WeekOneB\obj\Debug\net10.0\refint\SummerNetClass.WeekOneB.dll
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.WeekOneB\obj\Debug\net10.0\SummerNetClass.WeekOneB.pdb
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.WeekOneB\obj\Debug\net10.0\SummerNetClass.WeekOneB.genruntimeconfig.cache
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.WeekOneB\obj\Debug\net10.0\ref\SummerNetClass.WeekOneB.dll
