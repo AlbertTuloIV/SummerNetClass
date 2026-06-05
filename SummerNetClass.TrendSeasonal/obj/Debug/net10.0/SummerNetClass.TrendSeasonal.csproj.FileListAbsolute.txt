@@ -1,0 +1,15 @@
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.TrendSeasonal\bin\Debug\net10.0\SummerNetClass.TrendSeasonal.exe
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.TrendSeasonal\bin\Debug\net10.0\SummerNetClass.TrendSeasonal.deps.json
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.TrendSeasonal\bin\Debug\net10.0\SummerNetClass.TrendSeasonal.runtimeconfig.json
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.TrendSeasonal\bin\Debug\net10.0\SummerNetClass.TrendSeasonal.dll
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.TrendSeasonal\bin\Debug\net10.0\SummerNetClass.TrendSeasonal.pdb
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.TrendSeasonal\obj\Debug\net10.0\SummerNetClass.TrendSeasonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.TrendSeasonal\obj\Debug\net10.0\SummerNetClass.TrendSeasonal.AssemblyInfoInputs.cache
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.TrendSeasonal\obj\Debug\net10.0\SummerNetClass.TrendSeasonal.AssemblyInfo.cs
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.TrendSeasonal\obj\Debug\net10.0\SummerNetClass.TrendSeasonal.csproj.CoreCompileInputs.cache
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.TrendSeasonal\obj\Debug\net10.0\SummerNetClass.TrendSeasonal.sourcelink.json
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.TrendSeasonal\obj\Debug\net10.0\SummerNetClass.TrendSeasonal.dll
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.TrendSeasonal\obj\Debug\net10.0\refint\SummerNetClass.TrendSeasonal.dll
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.TrendSeasonal\obj\Debug\net10.0\SummerNetClass.TrendSeasonal.pdb
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.TrendSeasonal\obj\Debug\net10.0\SummerNetClass.TrendSeasonal.genruntimeconfig.cache
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.TrendSeasonal\obj\Debug\net10.0\ref\SummerNetClass.TrendSeasonal.dll

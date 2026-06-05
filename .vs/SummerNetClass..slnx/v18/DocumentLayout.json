@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\atulo\\source\\repos\\SummerNetClass\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{31F17AF7-8302-4B2C-840A-1E9BCE60B100}|SummerNetClass.TrendSeasonal\\SummerNetClass.TrendSeasonal.csproj|c:\\users\\atulo\\source\\repos\\summernetclass\\summernetclass.trendseasonal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F17AF7-8302-4B2C-840A-1E9BCE60B100}|SummerNetClass.TrendSeasonal\\SummerNetClass.TrendSeasonal.csproj|solutionrelative:summernetclass.trendseasonal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC10981-8786-4B64-A65F-F0025155A2EB}|SummerNetClass.HomeworkTwo\\SummerNetClass.HomeworkTwo.csproj|c:\\users\\atulo\\source\\repos\\summernetclass\\summernetclass.homeworktwo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC10981-8786-4B64-A65F-F0025155A2EB}|SummerNetClass.HomeworkTwo\\SummerNetClass.HomeworkTwo.csproj|solutionrelative:summernetclass.homeworktwo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{24863E75-E0D8-40F6-8DCE-84F14D9FDBD0}|SummerNetClass.LoanRepayment\\SummerNetClass.LoanRepayment.csproj|c:\\users\\atulo\\source\\repos\\summernetclass\\summernetclass.loanrepayment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24863E75-E0D8-40F6-8DCE-84F14D9FDBD0}|SummerNetClass.LoanRepayment\\SummerNetClass.LoanRepayment.csproj|solutionrelative:summernetclass.loanrepayment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -28,11 +36,37 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\atulo\\source\\repos\\SummerNetClass\\SummerNetClass.TrendSeasonal\\Program.cs",
+              "RelativeDocumentMoniker": "SummerNetClass.TrendSeasonal\\Program.cs",
+              "ToolTip": "C:\\Users\\atulo\\source\\repos\\SummerNetClass\\SummerNetClass.TrendSeasonal\\Program.cs",
+              "RelativeToolTip": "SummerNetClass.TrendSeasonal\\Program.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAgwMkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T18:04:23.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\atulo\\source\\repos\\SummerNetClass\\SummerNetClass.HomeworkTwo\\Program.cs",
+              "RelativeDocumentMoniker": "SummerNetClass.HomeworkTwo\\Program.cs",
+              "ToolTip": "C:\\Users\\atulo\\source\\repos\\SummerNetClass\\SummerNetClass.HomeworkTwo\\Program.cs",
+              "RelativeToolTip": "SummerNetClass.HomeworkTwo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T18:04:38.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\atulo\\source\\repos\\SummerNetClass\\SummerNetClass.LoanRepayment\\Program.cs",
               "RelativeDocumentMoniker": "SummerNetClass.LoanRepayment\\Program.cs",
               "ToolTip": "C:\\Users\\atulo\\source\\repos\\SummerNetClass\\SummerNetClass.LoanRepayment\\Program.cs",
               "RelativeToolTip": "SummerNetClass.LoanRepayment\\Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwCQAAABMAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-05T15:16:42.617Z",
               "EditorCaption": ""
