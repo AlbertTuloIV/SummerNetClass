@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SummerNetClass.CreditCard")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8a71455198cdb19b5660daad378c8a9caa6f2d5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b054d232a11d52f48236274b657fdd9c3b1f15ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("SummerNetClass.CreditCard")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SummerNetClass.CreditCard")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
