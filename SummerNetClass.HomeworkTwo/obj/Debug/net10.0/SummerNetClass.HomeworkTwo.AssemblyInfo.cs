@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SummerNetClass.HomeworkTwo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0375350a1e564c489949b8842fc4f80eaeaf4e5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4490e24a15ab2d27b2bcf08633ce010f7e336994")]
 [assembly: System.Reflection.AssemblyProductAttribute("SummerNetClass.HomeworkTwo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SummerNetClass.HomeworkTwo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

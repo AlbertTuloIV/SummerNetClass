@@ -1,0 +1,15 @@
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.ProAssignmentThree\bin\Debug\net10.0\SummerNetClass.ProAssignmentThree.exe
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.ProAssignmentThree\bin\Debug\net10.0\SummerNetClass.ProAssignmentThree.deps.json
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.ProAssignmentThree\bin\Debug\net10.0\SummerNetClass.ProAssignmentThree.runtimeconfig.json
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.ProAssignmentThree\bin\Debug\net10.0\SummerNetClass.ProAssignmentThree.dll
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.ProAssignmentThree\bin\Debug\net10.0\SummerNetClass.ProAssignmentThree.pdb
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.ProAssignmentThree\obj\Debug\net10.0\SummerNetClass.ProAssignmentThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.ProAssignmentThree\obj\Debug\net10.0\SummerNetClass.ProAssignmentThree.AssemblyInfoInputs.cache
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.ProAssignmentThree\obj\Debug\net10.0\SummerNetClass.ProAssignmentThree.AssemblyInfo.cs
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.ProAssignmentThree\obj\Debug\net10.0\SummerNetClass.ProAssignmentThree.csproj.CoreCompileInputs.cache
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.ProAssignmentThree\obj\Debug\net10.0\SummerNetClass.ProAssignmentThree.sourcelink.json
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.ProAssignmentThree\obj\Debug\net10.0\SummerNetClass.ProAssignmentThree.dll
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.ProAssignmentThree\obj\Debug\net10.0\refint\SummerNetClass.ProAssignmentThree.dll
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.ProAssignmentThree\obj\Debug\net10.0\SummerNetClass.ProAssignmentThree.pdb
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.ProAssignmentThree\obj\Debug\net10.0\SummerNetClass.ProAssignmentThree.genruntimeconfig.cache
+C:\Users\atulo\source\repos\SummerNetClass\SummerNetClass.ProAssignmentThree\obj\Debug\net10.0\ref\SummerNetClass.ProAssignmentThree.dll
