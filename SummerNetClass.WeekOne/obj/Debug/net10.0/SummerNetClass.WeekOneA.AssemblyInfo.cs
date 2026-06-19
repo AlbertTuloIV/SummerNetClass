@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SummerNetClass.WeekOneA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4490e24a15ab2d27b2bcf08633ce010f7e336994")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9db99713e9aa2fbc70d743624210dcd5d1fd6ce7")]
 [assembly: System.Reflection.AssemblyProductAttribute("SummerNetClass.WeekOneA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SummerNetClass.WeekOneA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

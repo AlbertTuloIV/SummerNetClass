@@ -1,0 +1,15 @@
+G:\Dev\SummerNetClass\SummerNetClass.ProgrammingAssignment4A\bin\Debug\net10.0\SummerNetClass.ProgrammingAssignment4A.exe
+G:\Dev\SummerNetClass\SummerNetClass.ProgrammingAssignment4A\bin\Debug\net10.0\SummerNetClass.ProgrammingAssignment4A.deps.json
+G:\Dev\SummerNetClass\SummerNetClass.ProgrammingAssignment4A\bin\Debug\net10.0\SummerNetClass.ProgrammingAssignment4A.runtimeconfig.json
+G:\Dev\SummerNetClass\SummerNetClass.ProgrammingAssignment4A\bin\Debug\net10.0\SummerNetClass.ProgrammingAssignment4A.dll
+G:\Dev\SummerNetClass\SummerNetClass.ProgrammingAssignment4A\bin\Debug\net10.0\SummerNetClass.ProgrammingAssignment4A.pdb
+G:\Dev\SummerNetClass\SummerNetClass.ProgrammingAssignment4A\obj\Debug\net10.0\SummerNetClass.ProgrammingAssignment4A.GeneratedMSBuildEditorConfig.editorconfig
+G:\Dev\SummerNetClass\SummerNetClass.ProgrammingAssignment4A\obj\Debug\net10.0\SummerNetClass.ProgrammingAssignment4A.AssemblyInfoInputs.cache
+G:\Dev\SummerNetClass\SummerNetClass.ProgrammingAssignment4A\obj\Debug\net10.0\SummerNetClass.ProgrammingAssignment4A.AssemblyInfo.cs
+G:\Dev\SummerNetClass\SummerNetClass.ProgrammingAssignment4A\obj\Debug\net10.0\SummerNetClass.ProgrammingAssignment4A.csproj.CoreCompileInputs.cache
+G:\Dev\SummerNetClass\SummerNetClass.ProgrammingAssignment4A\obj\Debug\net10.0\SummerNetClass.ProgrammingAssignment4A.sourcelink.json
+G:\Dev\SummerNetClass\SummerNetClass.ProgrammingAssignment4A\obj\Debug\net10.0\SummerNetClass.ProgrammingAssignment4A.dll
+G:\Dev\SummerNetClass\SummerNetClass.ProgrammingAssignment4A\obj\Debug\net10.0\refint\SummerNetClass.ProgrammingAssignment4A.dll
+G:\Dev\SummerNetClass\SummerNetClass.ProgrammingAssignment4A\obj\Debug\net10.0\SummerNetClass.ProgrammingAssignment4A.pdb
+G:\Dev\SummerNetClass\SummerNetClass.ProgrammingAssignment4A\obj\Debug\net10.0\SummerNetClass.ProgrammingAssignment4A.genruntimeconfig.cache
+G:\Dev\SummerNetClass\SummerNetClass.ProgrammingAssignment4A\obj\Debug\net10.0\ref\SummerNetClass.ProgrammingAssignment4A.dll
