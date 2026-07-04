@@ -1,0 +1,15 @@
+G:\Dev\SummerNetClass\TextEditorApp\bin\Debug\net10.0-windows\TextEditorApp.exe
+G:\Dev\SummerNetClass\TextEditorApp\bin\Debug\net10.0-windows\TextEditorApp.deps.json
+G:\Dev\SummerNetClass\TextEditorApp\bin\Debug\net10.0-windows\TextEditorApp.runtimeconfig.json
+G:\Dev\SummerNetClass\TextEditorApp\bin\Debug\net10.0-windows\TextEditorApp.dll
+G:\Dev\SummerNetClass\TextEditorApp\bin\Debug\net10.0-windows\TextEditorApp.pdb
+G:\Dev\SummerNetClass\TextEditorApp\obj\Debug\net10.0-windows\TextEditorApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Dev\SummerNetClass\TextEditorApp\obj\Debug\net10.0-windows\TextEditorApp.AssemblyInfoInputs.cache
+G:\Dev\SummerNetClass\TextEditorApp\obj\Debug\net10.0-windows\TextEditorApp.AssemblyInfo.cs
+G:\Dev\SummerNetClass\TextEditorApp\obj\Debug\net10.0-windows\TextEditorApp.csproj.CoreCompileInputs.cache
+G:\Dev\SummerNetClass\TextEditorApp\obj\Debug\net10.0-windows\TextEditorApp.sourcelink.json
+G:\Dev\SummerNetClass\TextEditorApp\obj\Debug\net10.0-windows\TextEditorApp.dll
+G:\Dev\SummerNetClass\TextEditorApp\obj\Debug\net10.0-windows\refint\TextEditorApp.dll
+G:\Dev\SummerNetClass\TextEditorApp\obj\Debug\net10.0-windows\TextEditorApp.pdb
+G:\Dev\SummerNetClass\TextEditorApp\obj\Debug\net10.0-windows\TextEditorApp.genruntimeconfig.cache
+G:\Dev\SummerNetClass\TextEditorApp\obj\Debug\net10.0-windows\ref\TextEditorApp.dll

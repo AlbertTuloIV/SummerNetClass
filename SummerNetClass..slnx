@@ -8,4 +8,5 @@
   <Project Path="SummerNetClass.TrendSeasonal/SummerNetClass.TrendSeasonal.csproj" Id="31f17af7-8302-4b2c-840a-1e9bce60b100" />
   <Project Path="SummerNetClass.WeekOne/SummerNetClass.WeekOneA.csproj" />
   <Project Path="SummerNetClass.WeekOneB/SummerNetClass.WeekOneB.csproj" Id="89af0a16-4943-4b70-8016-cc2b62433f6f" />
+  <Project Path="TextEditorApp/TextEditorApp.csproj" />
 </Solution>
