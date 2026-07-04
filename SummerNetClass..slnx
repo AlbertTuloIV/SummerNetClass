@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="BookStoreWebApp/BookStoreWebApp.csproj" />
   <Project Path="SummerNetClass.CreditCard/SummerNetClass.CreditCard.csproj" Id="317b703c-7a37-48b5-960b-d6cb1e5037c5" />
   <Project Path="SummerNetClass.HomeworkTwo/SummerNetClass.HomeworkTwo.csproj" Id="cdc10981-8786-4b64-a65f-f0025155a2eb" />
   <Project Path="SummerNetClass.LoanRepayment/SummerNetClass.LoanRepayment.csproj" Id="24863e75-e0d8-40f6-8dce-84f14d9fdbd0" />

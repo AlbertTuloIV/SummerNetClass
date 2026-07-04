@@ -1,0 +1,29 @@
+@page "{id:int}"
+@model BookStoreWebApp.Pages.EditBookModel
+@{
+    ViewData["Title"] = "Edit Book";
+}
+
+<h1>Edit Book</h1>
+
+<form method="post">
+    <input type="hidden" name="Id" value="@Model.Book.Id">
+    <div class="mb-3">
+        <label for="Title" class="form-label">Title</label>
+        <input type="text" class="form-control" id="Title" name="Title" value="@Model.Book.Title" required>
+    </div>
+    <div class="mb-3">
+        <label for="Author" class="form-label">Author</label>
+        <input type="text" class="form-control" id="Author" name="Author" value="@Model.Book.Author" required>
+    </div>
+    <div class="mb-3">
+        <label for="Pages" class="form-label">Pages</label>
+        <input type="number" class="form-control" id="Pages" name="Pages" value="@Model.Book.Pages" required>
+    </div>
+    <div class="mb-3">
+        <label for="Price" class="form-label">Price</label>
+        <input type="number" step="0.01" class="form-control" id="Price" name="Price" value="@Model.Book.Price" required>
+    </div>
+    <button type="submit" class="btn btn-primary">Update Book</button>
+    <a asp-page="Books" class="btn btn-secondary">Cancel</a>
+</form>
